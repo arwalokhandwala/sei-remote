@@ -6,3 +6,5 @@
   - git remote add sei-remote https://github.com/arwalokhandwala/sei-remote.git
 
 ### git fetch sei-remote
+
+### git switch -c <branch_name>
